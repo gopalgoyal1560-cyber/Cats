@@ -1,3 +1,5 @@
+# Note: This project do not have much commits because this project was not intended to push on github it was built just for desktop  but due to some requirements I had to push it today.
+
 # Database-Driven Cat Cafe & Adoption Management System
 
 A desktop management application built with **Python, Tkinter, and SQLite3** for managing cat records, customers, employees, and adoption information through a graphical user interface.
